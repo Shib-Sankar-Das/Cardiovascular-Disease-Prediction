@@ -1,0 +1,45 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Streamlit and web app dependencies
+streamlit>=1.28.0
+plotly>=5.15.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Model serialization
+cloudpickle>=2.0.0
+
+# Additional machine learning libraries
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Data visualization (additional)
+plotly-express>=0.4.0
+
+# Optional: Jupyter notebook support (if running notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Performance optimization
+numba>=0.56.0
+
+# Utility libraries
+tqdm>=4.64.0
+
+# Statistical libraries
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Optional: For advanced model interpretation
+shap>=0.41.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
