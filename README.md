@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Disease Risk Prediction
+# ❤ Cardiovascular Disease Risk Prediction
 
 A machine learning web application built with Streamlit that predicts cardiovascular disease risk based on various health parameters. This project includes comprehensive exploratory data analysis (EDA), model training, and an interactive web deployment.
 
